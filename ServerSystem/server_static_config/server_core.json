@@ -1,0 +1,12 @@
+{
+  "ServerHostName": "PSA-STARS-II",
+  "LogWriteFileTimer": 600,
+  "LogWriteFileStart": 0,
+  "LogWriteFileFolder": "ServerSystem/server_log/",
+  "LogWriteFileName": "server_state",
+  "StateSendTimerMs": 250,
+  "StateSendAddress": "127.0.0.1:32000",
+  "ConsoleAddress": "127.0.0.1:62000",
+  "ConsolePassword": "EE-6547-FB-9870-ZS-3214",
+  "WebStaticResFolder": "ServerSystem/server_web/"
+}

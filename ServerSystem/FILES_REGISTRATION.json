@@ -1,0 +1,7 @@
+{
+  "FileSTCCORE": "ServerSystem/server_static_config/server_core.json",
+  "FileSTCDB": "ServerSystem/server_static_config/server_db.json",
+  "FileSTCDBSQL": "ServerSystem/server_static_config/server_db_sql.json",
+  "FileSTCHTTP": "ServerSystem/server_static_config/server_http.json",
+  "FileSTCHTTPS": "ServerSystem/server_static_config/server_https.json"
+}

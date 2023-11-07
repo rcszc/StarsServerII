@@ -1,0 +1,7 @@
+{
+  "DBUserName": "root",
+  "DBPassword": "11223344",
+  "DBHost": "127.0.0.1",
+  "DBPort": "12800",
+  "DataBaseName": "PomeloStar-MainDB"
+}

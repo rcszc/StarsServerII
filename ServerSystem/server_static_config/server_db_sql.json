@@ -1,0 +1,6 @@
+{
+  "InsertUser": "INSERT INTO users (username, email, user_level) VALUES (?, ?, ?)",
+  "DeleteUser": "DELETE FROM users WHERE username = ?",
+  "UpdateUser": "UPDATE users SET email = ?, user_level = ? WHERE username = ?",
+  "GetInfoUser": "SELECT * FROM users WHERE username = ? AND email = ?"
+}

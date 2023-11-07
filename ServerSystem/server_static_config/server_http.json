@@ -1,0 +1,6 @@
+{
+  "ServerRealm": "www.pomelostar.cn",
+  "ServerPort": 80,
+  "ProcessPoolWarn": 5800,
+  "ProcessPoolMax": 7200
+}

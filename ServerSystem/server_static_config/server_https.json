@@ -1,0 +1,5 @@
+{
+  "ServerPort": 443,
+  "WebSSLFileNginxPem": "ServerSystem/server_web_ssl/10636054_pomelostar.cn_nginx/pomelostar.cn.pem",
+  "WebSSLFileNginxKey": "ServerSystem/server_web_ssl/10636054_pomelostar.cn_nginx/pomelostar.cn.key"
+}
